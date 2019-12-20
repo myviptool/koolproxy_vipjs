@@ -56,7 +56,7 @@ var vipChannl = new Array(
 "http://jx.mw0.cc/?url=",
 "https://zww.e6.gs/?v=",
 "http://vip.qi71.cn/?url=",
-"https://vip.bljiex.com/?v=",
+"https://vip.bljiex.com/?v="
 );
 
 for (x in vipChannl)
