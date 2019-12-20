@@ -33,7 +33,7 @@ var vipChannl = new Array(
 "https://jx.f41.cc/?url=",
 "https://www.ckmov.vip/api.php?url=",
 "https://cn.bjbanshan.cn/jx.php?url=",
-"https://jx.mw0.cc/?url=","http://
+"https://jx.mw0.cc/?url=",
 "https://www.33tn.cn/?url=",
 "https://jx.1ff1.cn/?url=",
 "https://jx.000180.top/jx/?url=",
@@ -54,7 +54,6 @@ var vipChannl = new Array(
 "http://aikan-tv.com/?url=",
 "https://api.isoyu.com/ckplayer/?url=",
 "http://jx.mw0.cc/?url=",
-"https://z1.m1907.cn/?a=",1&jx=",
 "https://zww.e6.gs/?v=",
 "http://vip.qi71.cn/?url=",
 "https://vip.bljiex.com/?v=",
